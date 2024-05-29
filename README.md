@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm AdityA RajpuT</h1>
 <h3 align="center">An enthusiastic data scientist from London who is a proactive problem solver with good data analysis skills and the ability to work in a variety of data environments.</h3>
 
-- 🔭 I’m currently working on **SENTIMENT ANALYSIS FOR PREDICTING STOCK PRICE BEHAVIOR**
+- 🔭 I’m currently working in **Data Analyst 2 at Abbott Labs**
 
 - 🌱 I’m currently learning **Azure, Docker, Kubernetes.**
 
 - 👯 I’m Currently collaborate to **AI incident monitoring system**
-
-- 🤝 I’m looking for help with **SENTIMENT ANALYSIS**
 
 - 💬 Ask me about **Data visualization, Data Analisis, Python, Data mining.**
 
