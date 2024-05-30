@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm AdityA RajpuT</h1>
-<h3 align="center">An enthusiastic data scientist/analyst from oxford who is a proactive problem solver with good data analysis skills and the ability to work in a variety of data environments.</h3>
+<h3 align="center">An enthusiastic data scientist/analyst from Oxford who is a proactive problem solver with good data analysis skills and the ability to work in a variety of data environments.</h3>
 
 - 🔭 I’m currently working in as **Data Analyst 2 at Abbott Labs**
 
 - 🌱 I’m currently learning **Azure, Docker, Kubernetes.**
 
-- 👯 I’m Currently collaborate to **AI incident monitoring system**
+- 👯 I’m recently collaborate to **AI incident monitoring system**
 
-- 💬 Ask me about **Data visualization, Data Analisis, Python, Data mining.**
+- 💬 Ask me about **Data visualization, Data analysis, Python, and Data mining.**
 
 - 📫 How to reach me **adityarajput1519@gmail.com**
 
